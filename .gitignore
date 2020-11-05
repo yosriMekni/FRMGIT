@@ -1,5 +1,5 @@
 tmp/todo.txt
 *.txt
 tmp/*
-*.xml
 .idea/
+*.xml
