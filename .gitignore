@@ -3,3 +3,4 @@ tmp/todo.txt
 tmp/*
 .idea/
 *.xml
+*.csv
